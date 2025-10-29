@@ -1,4 +1,4 @@
-# Auto Email Checkker
+# Auto Email Checker
 ### A Modern Python GUI for Reading, Sending & Managing Emails (Gmail + Outlook)
 
 ## Overview
