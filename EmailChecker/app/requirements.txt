@@ -1,2 +1,2 @@
 customtkinter
-python-dotenv
+python-dotenv  # For loading environment variables from a .env file
